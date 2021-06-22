@@ -11,3 +11,4 @@ create database vaccine_hub;
 
 -- execute vaccine-hub schema script
 \i vaccine-hub-schema.sql
+
