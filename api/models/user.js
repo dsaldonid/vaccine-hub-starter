@@ -27,6 +27,10 @@ class User{
         // create a new in the db with their info
         //return the user
     }
+
+    static async fetchUserByEmail(email){
+        //
+    }
 }
 
 module.exports = User
